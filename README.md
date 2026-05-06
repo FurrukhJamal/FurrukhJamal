@@ -29,7 +29,7 @@ Full-stack web app where users post ideas, vote, comment, and receive email/DB n
 ### 🔧 OddJobs App (React Native + Laravel)
 Marketplace app connecting people with odd-job workers — post jobs, bid, DM, and rate workers.  
 Real-time chat and full auth system.
-
+[Frontend](https://bitbucket.org/FJamal/oddjobs-mobile/src/master/) [Backend](https://bitbucket.org/FJamal/oddjobs-server/src/master/)
 ---
 
 ## 📚 Education
