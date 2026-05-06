@@ -45,4 +45,5 @@ Self-taught via structured coursework:
 ## 📫 Let's Connect
 
 Open to **remote roles** in React Native, Laravel, or full-stack development.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/furrukh-jamal-177079198/)
 Feel free to reach out or explore my projects below ⬇️
