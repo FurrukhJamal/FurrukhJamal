@@ -15,7 +15,6 @@ I've been building real-world projects since 2019, learning from MIT, Harvard, a
 **Tools:** Git · MySQL · Cloudinary · Google Maps API
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 📱 Twitter Clone (React Native + Laravel)
@@ -29,7 +28,9 @@ Full-stack web app where users post ideas, vote, comment, and receive email/DB n
 ### 🔧 OddJobs App (React Native + Laravel)
 Marketplace app connecting people with odd-job workers — post jobs, bid, DM, and rate workers.  
 Real-time chat and full auth system.
-[Frontend](https://bitbucket.org/FJamal/oddjobs-mobile/src/master/) [Backend](https://bitbucket.org/FJamal/oddjobs-server/src/master/)
+[Frontend](https://bitbucket.org/FJamal/oddjobs-mobile/src/master/) · [Backend](https://bitbucket.org/FJamal/oddjobs-server/src/master/)
+
+
 ---
 
 ## 📚 Education
