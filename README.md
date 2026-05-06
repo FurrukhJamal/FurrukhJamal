@@ -33,6 +33,20 @@ Real-time chat and full auth system.
 
 ---
 
+## 🤖 Machine Learning Projects
+
+### ✏️ MNIST Digit Classifier (TensorFlow.js + React)
+Draw a digit on a canvas and a trained neural network predicts it in real time — entirely in the browser.  
+Built with TensorFlow.js and React, no backend required.  
+[Code](https://github.com/FurrukhJamal/tensorflow-mnist-classification)
+
+### 📷 Real-Time Object Detection (TensorFlow.js)
+Live object detection in the browser using the COCO-SSD model and a webcam feed.  
+[Code](https://github.com/FurrukhJamal/ObjectDetectionTensorFlowJS)
+
+
+---
+
 ## 📚 Education
 
 Self-taught via structured coursework:
