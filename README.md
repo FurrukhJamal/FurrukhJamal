@@ -50,9 +50,9 @@ Live object detection in the browser using the COCO-SSD model and a webcam feed.
 ## 📚 Education
 
 Self-taught via structured coursework:
-- CS50, CS50 Web — Harvard (edX)
+- CS50, CS50 Web, CS50 AI — Harvard (edX)
 - Mobile App Dev with React Native — Harvard (edX)
-- 6.00.1x / 6.00.2x / 6.006 / 6.034 / 6.036 / 6.S191 — MIT OpenCourseWare
+- 6.00.1x / 6.00.2x / 6.006 / 6.034 / 6.036 / 6.S191 / 18.01 / 18.02 / 18.06 — MIT OpenCourseWare
 - CS231n Deep Learning for Computer Vision — Stanford
 
 ---
